@@ -1,0 +1,34 @@
+body{
+  font-family: 'Fredoka', sans-serif;
+}
+
+main{
+  min-height: 80vh;
+}
+
+h1{
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2{
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.product-name{
+  color: gray;
+}
+.product-price{
+  color: blue;
+}
+
+.count-box{
+  margin: 2px;
+}
